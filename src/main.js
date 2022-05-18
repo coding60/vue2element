@@ -1,3 +1,10 @@
+/*
+// | Copyright (c) 2022- http://www.coding60.com All rights reserved.
+ * Author: lyg   qq:724864363
+ * Date: 2022/5/5
+ * Time: 10:45
+ */
+
 // import Vue from 'vue'
 // import App from './App.vue'
 // import './plugins/element.js'
