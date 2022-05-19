@@ -6,7 +6,9 @@
 Author: lyg   qq:724864363
 更多项目请进入[60编程网主站](http://www.coding60.com/)
 
-
+## Donate 捐赠
+如果你觉得这个项目帮助到了你，你可以通过下方支付方式进行打赏 
+![donate](http://www.coding60.com/img/donate.jpg)
 ## Project setup
 ```
 npm install
