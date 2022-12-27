@@ -16,7 +16,7 @@
 export default {    
 data() {      
 return {
-	msg:'此处为字符串模板{{}}渲染的数据',
+	msg:'此处为字符串模板{{msg}}渲染的数据',
 	msgBind: '页面加载于 ' + new Date().toLocaleString()
 
 	

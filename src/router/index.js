@@ -14,6 +14,7 @@ import Watchcom from '@/components/Watchcom.vue'
 import RouterHook from '@/components/RouterHook.vue'
 import DynamicMatching from '@/components/DynamicMatching.vue'
 import ProDetail from '@/components/ProDetail.vue'
+import echarts from '@/components/echarts.vue'
 
 
 Vue.use(Router)
@@ -81,6 +82,11 @@ export default new Router({
 					path: '/dynamicMatching',
 					name: 'dynamicMatching',
 					component: DynamicMatching,
+				},
+				{
+					path: '/echarts',
+					name: 'echarts',
+					component: echarts,
 				},
 
 			]
